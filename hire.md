@@ -6,7 +6,7 @@
 
 ---------------------------------------------------------------------------
 
-I decided to write this page on the off-chance that someone is still considering hiring me for contract work despite all the outrageous shit I've put up on the Interwebs. If this is the case, you've probably realized that despite being a lunatic, I'm far more capable than most programmers out there. In this page I hope to showcase that capability.
+I decided to write this page on the off-chance that someone is still considering hiring me for contract work despite all the outrageous shit I've put up on the Interwebs. If this is the case, you've probably realized that despite being a lunatic, I'm far more capable than most programmers out there. In this page I hope to give a better idea of what my marketable skills are.
 
 ---------------------------------------------------------------------------
 
