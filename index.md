@@ -21,3 +21,5 @@ I am currently working on a collection of data science libraries for the C progr
 ### Site Index:
 
 [Photo Gallery](https://psychocod3r.github.io/gallery)
+
+[Hire for Contract Work](https://psychocod3r.github.io/hire)
