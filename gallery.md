@@ -36,7 +36,7 @@ State diagram for part of the Turing machine I designed for parsing and validati
 
 ---------------------------------------------------------------------------
 
-![Urbex photography](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9ffe72f5-f52b-45e4-b6a4-10d10a0f61cd/ddx9izb-4228247c-7ab4-4cc0-ae21-be0140a48749.jpg)
+![Urbex photography](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9ffe72f5-f52b-45e4-b6a4-10d10a0f61cd/ddx9izb-4228247c-7ab4-4cc0-ae21-be0140a48749.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvOWZmZTcyZjUtZjUyYi00NWU0LWI2YTQtMTBkMTBhMGY2MWNkXC9kZHg5aXpiLTQyMjgyNDdjLTdhYjQtNGNjMC1hZTIxLWJlMDE0MGE0ODc0OS5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.p1N4uWovK7BSz9n5a6NYl94AgSTh5DN2fLcVyqGsF-k)
 
 A sample of my urbex photography. Haven't done it in a while since my camera's battery died (meaning it won't charge anymore) and I haven't gotten around to replacing it. Also, this house got bulldozed shortly after I went into it and took the pictures. Guess they didn't want me going in there and getting myself killed. Urbexing can be dangerous if you're just doing random run-down buildings, because many of these buildings are literally falling apart and can collapse at any time. Still worth the risk in my opinion.
 
