@@ -11,5 +11,7 @@ I am currently working on a collection of data science libraries for the C progr
 ### My Social Media:
 
 [Wordpress](https://psychocod3r.wordpress.com/)
+
 [Twitter](https://twitter.com/PCod3r)
+
 [GitHub portfolio](https://github.com/PsychoCod3r)
