@@ -1,3 +1,7 @@
+[Wordpress](https://psychocod3r.wordpress.com/) | [Twitter](https://twitter.com/PCod3r) | [GitHub portfolio](https://github.com/PsychoCod3r)
+
+---------------------------------------------------------------------------
+
 ## Michael Warren's Photo Gallery
 
 ---------------------------------------------------------------------------
