@@ -44,7 +44,7 @@ A sample of my urbex photography. Haven't done it in a while since my camera's b
 
 ![Doxxing](https://pbs.twimg.com/media/EegBNFlXgAE8Vds?format=png&name=large)
 
-Some of my doxxing handiwork. One of the staff at my group home got scammed trying to buy boots online, so I used my 1337 skillz to track them down and get them deplatformed. Learn five methods for doxxing people the 1337 h4xx0r way in [this tutorial](https://psychocod3r.wordpress.com/2020/05/21/getting-information-on-people-the-1337-h4xx0r-way/).
+Some of my doxxing handiwork. One of the staff at my group home got scammed trying to buy boots online, so I used my 1337 skillz to track down the scammers and get them deplatformed. Learn five methods for doxxing people the 1337 h4xx0r way in [this tutorial](https://psychocod3r.wordpress.com/2020/05/21/getting-information-on-people-the-1337-h4xx0r-way/).
 
 ---------------------------------------------------------------------------
 
